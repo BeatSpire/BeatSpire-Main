@@ -32,6 +32,8 @@ To deploy your own contract :-
    ```
    And save the contract address for frontend fetch use
 
+<h2> ⚠️⚠️Drive Link for public folder with media assets </h2>
+[https://drive.google.com/drive/folders/1wFZoHpPz9pUIDnYFwVry-TbJQmA8foMv](url)
 
 <h2>Integration Details</h2>
 1) Frontend UI uses ReactJUS styled using tailwindCSS , MUI and styled components modules
